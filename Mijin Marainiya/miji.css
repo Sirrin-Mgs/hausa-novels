@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(27, 24, 24);
+}
+.h3-tg {
+    color: white;
+    text-align: center;
+}
+
+.sh-st {
+    color: white;
+}
+.bk-au {
+    color: white;
+}
+
+.dwn-btn {
+    border: none;
+    background-color: red;
+    cursor: pointer;
+    border-radius: 5px;
+    color: white;
+    margin-left: 50px;
+    height: 70px;
+    width: 100px;
+}
+
+.dwn-btn:hover {
+    opacity: 0.8;
+}
+
+.st-rt {
+    color: white;
+}
